@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+}
+
+#wrapper {
+  background: turquoise;
+  height: 220px;
+  width: 200px;
+  padding: 5px;
+}
+
+.answer {
+  font-size: 15px;
+  text-align: center;
+}
+
+#answer {
+  position: 15px 19px;
+}

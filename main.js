@@ -1,5 +1,4 @@
 // make inital input variables
-
 var num_one = document.getElementById('num_one');
 var num_two = document.getElementById('num_two');
 
@@ -19,3 +18,6 @@ document.addEventListener("DOMContentLoaded", function(event){
 }
 calculateBtn.addEventListener('click', handleClick);
 });
+
+
+// styling stuff
